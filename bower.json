@@ -1,0 +1,25 @@
+{
+  "name": "ThreeJS",
+  "authors": [
+    "Jazer Abreu <sokartema@gmail.com>"
+  ],
+  "description": "Examples of ThreeJS",
+  "main": "",
+  "keywords": [
+    "ThreeJS",
+    "Examples",
+    "Tutorial"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "three.js": "threejs#*"
+  }
+}
